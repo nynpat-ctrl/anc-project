@@ -25,7 +25,8 @@ In a nutshell, prepare your work to answer what, why and how questions on the su
 
 
 ## PC#0
-<strong>(2 points) PC#0. Problem statement due: Sept 11 (Friday) 11:59pm</strong>
+> <strong>(2 points) PC#0. Problem statement due: Sept 11 (Friday) 11:59pm</strong>
+
 Format: 1-page ppt to include
 1. Concise description of the problem/application
 2. Specific references (1. Papers and/or book chapters, 2. online open source datasets, 3. code…)
@@ -34,7 +35,7 @@ Format: 1-page ppt to include
 5. Attach a credit report (separately) to specify who did what for this assignment. The form needs to be cross signed by all team members.
 
 ## PC#1
-<strong>(5 points) PC#1.  Progress check 1 due on Oct 2 (Friday) 11:59pm</strong>
+> <strong>(5 points) PC#1.  Progress check 1 due on Oct 2 (Friday) 11:59pm</strong>
 1. Provide a concise, concrete and clear problem formulation (can be updated from the previous 1-pager to be more accurate). Aim at clearly explaining a theory/application/tool to the audience, demonstrating how it works, and describing your expected results (show-and-tell, use images and videos and other creative means). Avoid being too general or too narrow. 
 2. Identify key literature, datasets (training and testing), implementation code.
 3. Describe system requirement to establish the computation platform to demonstrate your project by answering the following questions: 1. Do you have sufficient resource to perform the computation, 2. How to install needed software environment, 3. Can you run the code without error. Provide clear evidence when answering the 3 questions in the report. 
@@ -43,7 +44,7 @@ Format: 1-page ppt to include
 6. Attach a credit report (separately) to specify who did what for this assignment. The form needs to be cross signed by all team members.
 
 ## PC#2
-<strong>(5 points) PC#2.  Progress check 2 due on Nov 6 (Friday) 11:59pm</strong>
+> <strong>(5 points) PC#2.  Progress check 2 due on Nov 6 (Friday) 11:59pm</strong>
 1. At this point, your key ingredients that go into the final report should be completely in place, although they may not in the most polished form yet.
 2. Write-up: a 4 to 5-page report in IEEE paper publication format. 
 3. Flesh out section by section your work in an IEEE publication format to include 1) abstract, 2) introduction, 3) methods, 4) implementation and simulation, 5) results, 6) discussions & conclusions. 7) references. Some of those sections may not be completely polished (take section 5 as an example, you should have obtained all the expected results but they may not be in complied form yet like those figures in an archival IEEE transactions paper). As another example, some sections in this report may be improved later but your outline of the section should be complete and in place. 
@@ -51,11 +52,11 @@ Format: 1-page ppt to include
 5. Attach a credit report (separately) to specify who did what for this assignment. The form needs to be cross signed by all team members.
 
 ## Submission
-<strong>(1 point) Turn in your final project presentation ppt file on Nov 18 (Wednesday) 11:59pm</strong>
+> <strong>(1 point) Turn in your final project presentation ppt file on Nov 18 (Wednesday) 11:59pm</strong>
 
 All teams, not just the first group of presenting teams, are to upload the final presentations. 
 
-<strong>(15 points) 10-min final project presentation evaluated by peers and professor (50% each)</strong>
+> <strong>(15 points) 10-min final project presentation evaluated by peers and professor (50% each)</strong>
 
 * Presentation time allowance: 10 minutes, recommended page length between 10-12, no more than 15. Keep in mind of the following evaluation rubric.
 * Use the following link to sign up for presentation time, and to upload your ppt prior to the presentation: https://docs.google.com/spreadsheets/d/1oCJiSy8RA3yRemPYhNFnsf3aYMK5XGWrIXzB70qVHNE/edit#gid=1519594772
@@ -72,7 +73,7 @@ All teams, not just the first group of presenting teams, are to upload the final
 | 1. Presenting Team #<br/> 2. Total Score                                   |                        |
 
  
-<strong>(12 points) Final report, Dec 10, 5pm</strong>
+> <strong>(12 points) Final report, Dec 10, 5pm</strong>
 
 Each member of the team is expected to upload a team final report package (a zip file including the following items) on time.
 What to submit:
