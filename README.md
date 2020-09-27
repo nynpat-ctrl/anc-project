@@ -36,6 +36,9 @@ Format: 1-page ppt to include
 
 ## PC#1
 > <strong>(5 points) PC#1.  Progress check 1 due on Oct 2 (Friday) 11:59pm</strong>
+
+> Report - [Status Report - Overleaf](https://www.overleaf.com/6557283433khvmttnqztzm)
+
 1. Provide a concise, concrete and clear problem formulation (can be updated from the previous 1-pager to be more accurate). Aim at clearly explaining a theory/application/tool to the audience, demonstrating how it works, and describing your expected results (show-and-tell, use images and videos and other creative means). Avoid being too general or too narrow. 
 2. Identify key literature, datasets (training and testing), implementation code.
 3. Describe system requirement to establish the computation platform to demonstrate your project by answering the following questions: 1. Do you have sufficient resource to perform the computation, 2. How to install needed software environment, 3. Can you run the code without error. Provide clear evidence when answering the 3 questions in the report. 
