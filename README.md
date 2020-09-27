@@ -1,6 +1,4 @@
-# Team18 Project - EEE511 Artificial Neural Computation
-
-## Final Team Project 511, Fall 2020 - (40 points total)
+# Final Team Project - EEE511 Artificial Neural Computation - Team18, Fall 2020 (40 points total)
 * Bookmark the final project link:
 https://docs.google.com/spreadsheets/d/1oCJiSy8RA3yRemPYhNFnsf3aYMK5XGWrIXzB70qVHNE/edit#gid=0
 * When turning in each assignment, complete a contribution form which needs to be cross signed by team members.
@@ -54,25 +52,28 @@ Format: 1-page ppt to include
 
 ## Submission
 <strong>(1 point) Turn in your final project presentation ppt file on Nov 18 (Wednesday) 11:59pm</strong>
+
 All teams, not just the first group of presenting teams, are to upload the final presentations. 
 
 <strong>(15 points) 10-min final project presentation evaluated by peers and professor (50% each)</strong>
+
 * Presentation time allowance: 10 minutes, recommended page length between 10-12, no more than 15. Keep in mind of the following evaluation rubric.
 * Use the following link to sign up for presentation time, and to upload your ppt prior to the presentation: https://docs.google.com/spreadsheets/d/1oCJiSy8RA3yRemPYhNFnsf3aYMK5XGWrIXzB70qVHNE/edit#gid=1519594772
 
 <strong>Evaluation rubric:</strong>
 
 | Project key words <br/> Evaluation by team # <br/> Signed                 | give 1-5 pts/question <br/> 5 is the highest score <br/> ____________________ |
-| ------------------------------------------------------------------------- | ---------------------- |
-| was the problem statement clear and does it make sense?                   |                        |
-| do you understand the steps taken to solve the problem?                   |                        |
-| do you understand some of the key algorithms needed to solve the problem? |                        |
-| do you think by following the presentation you will be able to duplicate <br/>the results of the project (installing software, porting data, implementing algorithms step by step, generating outputs…)?   |                        |
-| how do you rate the presentation in terms of clarity and depth?           |                        |
-| 1) Presenting Team #<br/>2) Total Score                                   |                        |
+| :------------------------------------------------------------------------- | :----------------------: |
+| Was the problem statement clear and does it make sense?                   |                        |
+| Do you understand the steps taken to solve the problem?                   |                        |
+| Do you understand some of the key algorithms needed to solve the problem? |                        |
+| Do you think by following the presentation you will be able to duplicate <br/>the results of the project (installing software, porting data, implementing algorithms step by step, generating outputs…)?   |                        |
+| How do you rate the presentation in terms of clarity and depth?           |                        |
+| 1. Presenting Team #<br/> 2. Total Score                                   |                        |
 
  
 <strong>(12 points) Final report, Dec 10, 5pm</strong>
+
 Each member of the team is expected to upload a team final report package (a zip file including the following items) on time.
 What to submit:
 * Your final complete report. Write-up: a 6-page report in IEEE paper publication format. Describe your work in an IEEE publication format to include 1) abstract, 2) introduction, 3) methods, 4) implementation and simulation, 5) results, 6) discussions & conclusions. 7) references. 
