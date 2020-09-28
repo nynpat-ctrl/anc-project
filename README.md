@@ -79,6 +79,7 @@ All teams, not just the first group of presenting teams, are to upload the final
 > <strong>(12 points) Final report, Dec 10, 5pm</strong>
 
 > Report - [Report - Overleaf](https://www.overleaf.com/3946469171hrgdhdcgcnqz)
+
 Each member of the team is expected to upload a team final report package (a zip file including the following items) on time.
 What to submit:
 * Your final complete report. Write-up: a 6-page report in IEEE paper publication format. Describe your work in an IEEE publication format to include 1) abstract, 2) introduction, 3) methods, 4) implementation and simulation, 5) results, 6) discussions & conclusions. 7) references. 
