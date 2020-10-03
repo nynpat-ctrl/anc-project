@@ -1,4 +1,7 @@
 # Final Team Project - EEE511 Artificial Neural Computation - Team18, Fall 2020 (40 points total)
+
+Private Google drive : https://drive.google.com/drive/u/2/folders/1F2aq_DeyWUZN2sCv7_Ww_IILjiJieX1b
+
 * Bookmark the final project link:
 https://docs.google.com/spreadsheets/d/1oCJiSy8RA3yRemPYhNFnsf3aYMK5XGWrIXzB70qVHNE/edit#gid=0
 * When turning in each assignment, complete a contribution form which needs to be cross signed by team members.
