@@ -50,6 +50,7 @@ Format: 1-page ppt to include
 6. Attach a credit report (separately) to specify who did what for this assignment. The form needs to be cross signed by all team members.
 
 ## PC#2
+> Report - [Status Report - Overleaf](https://www.overleaf.com/project/5f88b023dee91200019b4cee)
 > <strong>(5 points) PC#2.  Progress check 2 due on Nov 6 (Friday) 11:59pm</strong>
 1. At this point, your key ingredients that go into the final report should be completely in place, although they may not in the most polished form yet.
 2. Write-up: a 4 to 5-page report in IEEE paper publication format. 
