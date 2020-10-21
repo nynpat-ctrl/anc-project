@@ -50,8 +50,10 @@ Format: 1-page ppt to include
 6. Attach a credit report (separately) to specify who did what for this assignment. The form needs to be cross signed by all team members.
 
 ## PC#2
-> Report - [Status Report - Overleaf](https://www.overleaf.com/project/5f88b023dee91200019b4cee)
 > <strong>(5 points) PC#2.  Progress check 2 due on Nov 6 (Friday) 11:59pm</strong>
+
+> Report - [Status Report - Overleaf](https://www.overleaf.com/project/5f88b023dee91200019b4cee)
+
 1. At this point, your key ingredients that go into the final report should be completely in place, although they may not in the most polished form yet.
 2. Write-up: a 4 to 5-page report in IEEE paper publication format. 
 3. Flesh out section by section your work in an IEEE publication format to include 1) abstract, 2) introduction, 3) methods, 4) implementation and simulation, 5) results, 6) discussions & conclusions. 7) references. Some of those sections may not be completely polished (take section 5 as an example, you should have obtained all the expected results but they may not be in complied form yet like those figures in an archival IEEE transactions paper). As another example, some sections in this report may be improved later but your outline of the section should be complete and in place. 
