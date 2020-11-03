@@ -49,7 +49,7 @@ Format: 1-page ppt to include
 ## PC#2
 > <strong>(5 points) PC#2.  Progress check 2 due on Nov 6 (Friday) 11:59pm</strong>
 
-> Report - [Status Report - Overleaf](https://www.overleaf.com/project/5f88b023dee91200019b4cee)
+> Report - [Status Report - Overleaf](https://www.overleaf.com/4984875892cvmrpssmcyph)
 
 1. At this point, your key ingredients that go into the final report should be completely in place, although they may not in the most polished form yet.
 2. Write-up: a 4 to 5-page report in IEEE paper publication format. 
@@ -93,12 +93,12 @@ What to submit:
 
 ## Study Project 1 - CNN
 
-> Report - [CNN](https://www.overleaf.com/project/5fa12ce1ff679f37c5db12af)
+> Report - [CNN](https://www.overleaf.com/1634527219sqfxmkmbgvzb)
 
 > Docs - [GDrive](https://drive.google.com/drive/folders/16hKIddEn2EYPi2HQyjAsYF_5jp8G9_6c?usp=sharing)
 
 ## Study Project 2 - RNN
 
-> Report - [RNN](https://www.overleaf.com/project/5fa12cf1ff679f76b0db12ee)
+> Report - [RNN](https://www.overleaf.com/5931854226qxmdmhrxzyjg)
 
 > Docs - [GDrive](https://drive.google.com/drive/folders/1WUyndWUQhnMuT02wfWJ48N467CDW_KpF?usp=sharing)
