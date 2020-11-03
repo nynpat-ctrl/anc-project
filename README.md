@@ -92,6 +92,10 @@ What to submit:
 
 > Report - [CNN](https://www.overleaf.com/project/5fa12ce1ff679f37c5db12af)
 
+> Docs - [GDrive](https://drive.google.com/drive/folders/16hKIddEn2EYPi2HQyjAsYF_5jp8G9_6c?usp=sharing)
+
 ## Study Project 2 - RNN
 
 > Report - [RNN](https://www.overleaf.com/project/5fa12cf1ff679f76b0db12ee)
+
+> Docs - [GDrive](https://drive.google.com/drive/folders/1WUyndWUQhnMuT02wfWJ48N467CDW_KpF?usp=sharing)
