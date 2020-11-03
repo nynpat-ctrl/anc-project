@@ -85,3 +85,13 @@ What to submit:
 * Your final complete report. Write-up: a 6-page report in IEEE paper publication format. Describe your work in an IEEE publication format to include 1) abstract, 2) introduction, 3) methods, 4) implementation and simulation, 5) results, 6) discussions & conclusions. 7) references. 
 * Your annotated code along with a readme about how to use your code.
 * The ppt file used in your final presentation. This may be updated from the version you presented in class.
+
+
+
+## Study Project 1 - CNN
+
+> Report - [CNN](https://www.overleaf.com/project/5fa12ce1ff679f37c5db12af)
+
+## Study Project 2 - RNN
+
+> Report - [RNN](https://www.overleaf.com/project/5fa12cf1ff679f76b0db12ee)
