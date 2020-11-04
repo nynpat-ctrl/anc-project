@@ -4,11 +4,14 @@
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
 
 ## Second, install some python library with pip:
-* sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
+```console
+sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
+```
 
 For python3 use below:
-* sudo pip3 install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
-
+```console
+sudo pip3 install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
+```
 
 
 
