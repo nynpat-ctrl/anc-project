@@ -1,7 +1,12 @@
 # TrackNet: Tennis Ball Tracking from Broadcast Video by Deep Learning Networks
 
 ## First, you have to install cuda, cudnn and tensorflow, tutorial:
-https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
+
+> For, cuda-toolkit-11-0 - [link](https://medium.com/analytics-vidhya/installing-tensorflow-with-cuda-cudnn-gpu-support-on-ubuntu-20-04-f6f67745750a)
+
+> For, cuda-toolkit-9.0 - [link](https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e)
+
+
 
 ## Second, install some python library with pip:
 ```console
