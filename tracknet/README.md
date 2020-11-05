@@ -13,12 +13,12 @@ OR
 
 > python3:
 ```console
-sudo pip3 install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
+$ sudo pip3 install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
 ```
 
 > python2:
 ```console
-sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
+$ sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
 ```
 
 
@@ -30,14 +30,16 @@ sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphviz
 	Code be save in TrackNet_Python.ipynb (second part), you also need to change the folder path in code
 3. Copy the training_model1.csv file and testing_model1.csv file to TrackNet_One_Frames_Input folder
 4. After have training images and ground truth, we can start to train the TrackNet model I
-	* Open command line
-	* Change directory to TrackNet_One_Frames_Input folder 
-	* Using following command as example, you may need to change the command:
+	+ Open command line
+	+ Change directory to TrackNet_One_Frames_Input folder 
+	+ Using following command as example, you may need to change the command:
 	
-	    > python train.py --save_weights_path=weights/model --training_images_name="training_model1.csv" --epochs=500 --n_classes=256 --input_height=360 --input_width=640 --load_weights=1 --step_per_epochs=200 --batch_size=2
-	* Trained model weight will be save in weights/model.0
+	```console
+	    $ python3 train.py --save_weights_path=weights/model --training_images_name="training_model1.csv" --epochs=500 --n_classes=256 --input_height=360 --input_width=640 --load_weights=1 --step_per_epochs=200 --batch_size=2
+	```
+	+ Trained model weight will be save in weights/model.0
 
-	* Detailed explanation
+	+ Detailed explanation
 			--save_weights_path: Save the weight path
 			--training_images_name: Training images csv file path, training_model1.csv
 			--epochs: Epochs be set as 500 in this work
