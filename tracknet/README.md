@@ -61,8 +61,9 @@ $ sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphv
 	* Open command line
 	* Change directory to TrackNet_Three_Frames_Input folder 
 	* Using following command as example, you may need to change the command:
-	
-		> python train.py --save_weights_path=weights/model --training_images_name="training_model2.csv" --epochs=500 --n_classes=256 --input_height=360 --input_width=640 --load_weights=2 --step_per_epochs=200 --batch_size=2
+	```console
+	 $ python train.py --save_weights_path=weights/model --training_images_name="training_model2.csv" --epochs=500 --n_classes=256 --input_height=360 --input_width=640 --load_weights=2 --step_per_epochs=200 --batch_size=2
+	```
     * Trained model weight will be save in weights/model.0
     
 	* Detailed explanation
