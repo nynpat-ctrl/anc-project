@@ -64,6 +64,8 @@ All teams, not just the first group of presenting teams, are to upload the final
 
 > <strong>(15 points) 10-min final project presentation evaluated by peers and professor (50% each)</strong>
 
+> Presentation - [Final](https://docs.google.com/presentation/d/1pt8VuJUkGdZtRk5m2WNvphEzIXWPg2XOXvFlTPYzyLo/edit?usp=sharing) 
+
 * Presentation time allowance: 10 minutes, recommended page length between 10-12, no more than 15. Keep in mind of the following evaluation rubric.
 * Use the following link to sign up for presentation time, and to upload your ppt prior to the presentation: https://docs.google.com/spreadsheets/d/1oCJiSy8RA3yRemPYhNFnsf3aYMK5XGWrIXzB70qVHNE/edit#gid=1519594772
 
