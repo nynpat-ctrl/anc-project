@@ -145,3 +145,9 @@ $ sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphv
 
 ## Labeling Tool: Make your own dataset
 See the readme file in the LabelingTool directory. 'dataset.zip' is the dataset used in our implementation.
+
+## Sample Videos
+You can use these videos to run on the pre-trained model present at anc-project/tree/master/tracknet/code/TrackNet_Three_Frames_Input/weights/model.3
+This is the trained model of TrackNet II'
+1. Tennis: https://drive.google.com/file/d/1u8JjZ8CFdeTA5KR5UNgtTEahOEy3Qrfw/view?usp=sharing
+2. Badminton: https://drive.google.com/file/d/1ZyQhy0aYoFNKqy-Q0iSuUeN5ykB7kH6E/view?usp=sharing
