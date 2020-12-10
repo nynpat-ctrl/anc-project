@@ -144,4 +144,4 @@ $ sudo pip install numpy matplotlib pillow keras opencv-python pydot h5py graphv
 
 
 ## Labeling Tool: Make your own dataset
-See the readme file in the LabelingTool directory
+See the readme file in the LabelingTool directory. 'dataset.zip' is the dataset used in our implementation.
